@@ -10,6 +10,7 @@ public class hello_world {
 		if (true) {
 			System.out.println("第二次修改，测试冲突");
 		}
+		//改动代码，手动制造冲突
 	}
 
 }
