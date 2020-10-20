@@ -11,6 +11,8 @@ public class hello_world {
 			System.out.println("第二次修改，测试冲突");
 		}
 		//改动代码，手动制造冲突
+		
+		System.out.println("再次测试如何解决冲突");
 	}
 
 }
