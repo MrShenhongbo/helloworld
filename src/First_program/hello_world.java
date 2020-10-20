@@ -13,6 +13,8 @@ public class hello_world {
 		//改动代码，手动制造冲突
 		
 		System.out.println("再次测试如何解决冲突");
+		
+		//再次制造冲突
 	}
 
 }
