@@ -4,7 +4,8 @@ public class hello_world {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello,world! �޸�1.0�汾");
+		//TODO 2020-10-20 23:40:44 Git cloned第一次修改
+		System.out.println("Hello,World!");
 	}
 
 }
