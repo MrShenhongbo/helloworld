@@ -18,6 +18,9 @@ public class hello_world {
 		
 		//TODO 2020-10-21 14:28:19
 		System.out.println("异地克隆提交代码");
+		
+		//增加代码
+		System.out.println("测试pull");
 	}
 
 }
