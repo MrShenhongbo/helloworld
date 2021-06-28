@@ -21,6 +21,8 @@ public class hello_world {
 		
 		//增加代码
 		System.out.println("测试pull");
+		
+		System.out.println("2021-6-28");
 	}
 
 }
